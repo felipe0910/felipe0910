@@ -36,5 +36,4 @@
 
 ## 📊 Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe0910&layout=compact&langs_count=all&theme=tokyonight)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipe0910&layout=compact&langs_count=6&theme=tokyonight)
