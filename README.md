@@ -1,56 +1,42 @@
-# Felipe Alves da Silva
+# Felipe Alves da Silva 👨🏻‍💻
 
-**Estudante de ADS | JavaScript | Python | MySQL | Infraestrutura de TI**
+<p align="left">
+Desenvolvedor em formação | JavaScript | Python
 
-São Paulo, Brasil
+Sou formado em Técnico em Desenvolvimento de Sistemas e atualmente sou Jovem Aprendiz na área de Infraestrutura de TI. No momento, estou focado em aprender e aprimorar meus conhecimentos em JavaScript e Python, buscando evoluir cada vez mais como desenvolvedor.
 
----
+</p>
 
 ## Sobre mim
 
-Atualmente atuando como Jovem Aprendiz na área de Infraestrutura, desenvolvendo habilidades em suporte técnico, redes e manutenção. Estudante dedicado de Análise e Desenvolvimento de Sistemas, com grande interesse em programação, desenvolvimento web e soluções tecnológicas. Buscando oportunidades para crescer na área de desenvolvimento e aplicar na prática os conhecimentos adquiridos.
+- 🖥️ Técnico em Desenvolvimento de Sistemas pela ETEC Escola Técnica Estadual de São Paulo
+- 🎓 Cursando Análise e Desenvolvimento de Sistemas pela Universidade Paulista
+- 👨🏻‍💻 Jovem Aprendiz em Infraestrutura de TI na GO EYEWEAR
 
 ---
 
-## Experiência
+## 💻 Tecnologias e linguagens
 
-### **GO EYEWEAR**
+[![My Skills](https://skillicons.dev/icons?i=js,python,html,css,mysql,json)](https://skillicons.dev)
 
-**Jovem Aprendiz**  
-_Março 2024 - Presente (1 ano 11 meses)_
+### 🛠️ Ferramentas de desenvolvimento
 
-Como Jovem Aprendiz na área de Infraestrutura de TI, auxilio a equipe técnica em atividades básicas relacionadas ao suporte e manutenção de sistemas, contribuindo para o bom funcionamento dos equipamentos e da rede corporativa.
-
----
-
-## Formação Acadêmica
-
-### **Universidade Paulista**
-
-**Curso Superior de Tecnologia (CST), Análise de Sistemas de Computação**  
-_(Fevereiro 2025 - Fevereiro 2027)_
-
-### **ETEC - Escola Técnica Estadual de São Paulo**
-
-**Bachelor of Technology - BTech, Desenvolvimento Sistema**  
-_(Agosto 2023 - Dezembro 2024)_
+[![My Skills](https://skillicons.dev/icons?i=git,github,vscode)](https://skillicons.dev)
 
 ---
 
-## Principais competências
+## ⭐ GitHub Stats
 
-🔹 **JavaScript**  
-🔹 **Python**  
-🔹 **JSON**  
-🔹 **MySQL**  
-🔹 **Infraestrutura de TI**  
-🔹 **Suporte Técnico**
+<a href="https://github.com/felipe0910">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe0910&layout=compact&langs_count=6&theme=radical"/>
+</a>
 
----
+<br> <br>
 
-## Contato
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe0910/felipe0910/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe0910/felipe0910/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/felipe0910/felipe0910/output/pacman-contribution-graph.svg">
+</picture>
 
-📧 **Email:** felipealbdesdasilva1007@gmail.com  
-📱 **Telefone:** (11) 95316-7393  
-🔗 **LinkedIn:** [Felipe Alves da Silva](https://www.linkedin.com/in/felipe-alves-da-silva)  
-🐙 **GitHub:** [felipe0910](https://github.com/felipe0910)
+###
