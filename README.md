@@ -27,16 +27,8 @@ Sou formado em Técnico em Desenvolvimento de Sistemas e atualmente sou Jovem Ap
 
 ## ⭐ GitHub Stats
 
-<a href="https://github.com/felipe0910">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe0910&layout=compact&langs_count=6&theme=radical"/>
-</a>
+<img src="https://github-readme-stats-git-masterrstaa-anuraghazra.vercel.app/api/top-langs/?username=felipe0910&layout=compact&theme=radical" />
+<img src="https://metrics.lecoq.io/felipe0910?base=languages&base.languages.unit=percentage&base.languages.sections=most-used" />
 
-<br> <br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/felipe0910/felipe0910/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/felipe0910/felipe0910/output/pacman-contribution-graph.svg">
-  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/felipe0910/felipe0910/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
